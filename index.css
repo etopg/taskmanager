@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: magenta;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  #task-container {
+    margin: 20px;
+  }
+  
+  #task-input {
+    width: 70%;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: magenta;
+    color: white;
+  }
+  
+  .task-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  .task-item button {
+    margin-left: 10px;
+    background-color: magenta;
+    color: white;
+  }
+  
